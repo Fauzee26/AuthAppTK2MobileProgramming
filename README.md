@@ -1,3 +1,5 @@
 ## Screenshot
-<img src="screenshots/login.png" alt="Logo" width="80" height="80">
-<img src="screenshots/main.png" alt="Logo" width="80" height="80">
+<p float="left">
+  <img src="screenshots/login.png" width="40%" />
+  <img src="screenshots/main.png" width="40%" /> 
+</p>
